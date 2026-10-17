@@ -2,6 +2,10 @@
 
 A simple REST API for managing tasks, built with Python and FastAPI.
 
+**Live demo:** https://task-api-tw0g.onrender.com/docs
+
+> Hosted on a free plan, so the first request after a quiet period can take up to a minute while the server wakes up.
+
 ## Features
 
 - Create a task
@@ -12,7 +16,7 @@ A simple REST API for managing tasks, built with Python and FastAPI.
 
 ## Tech Stack
 
-Python 3.11, FastAPI, Uvicorn, Pydantic
+Python 3.11, FastAPI, Uvicorn, Pydantic, deployed on Render
 
 ## Endpoints
 
